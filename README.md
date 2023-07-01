@@ -2,7 +2,7 @@
  Description: Play this simply-built number-guessing game and enjoy finding the secret number.
 
 ## Deployment
-Check out this game here ➡️: https://guess-my-number-game-sammy.netlify.app/
+Check out this game here ➡️: <a href="https://guess-my-number-game-sammy.netlify.app/">Guess My Number</a>
 
 
 ## Built With 
